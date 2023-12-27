@@ -1,0 +1,26 @@
+2023-12-27 17:56:09.280 INFO  default --- [              main] c.e.i.l.m.LoggerContextInitializer  :57   : Log sdk initialized 
+2023-12-27 17:56:09.296 INFO  default --- [              main] com.example.myredis2.RedisTest      :50   : Starting RedisTest using Java 21.0.1 with PID 36186 (started by petrel in /Users/petrel/Downloads/MyRedis2) 
+2023-12-27 17:56:09.298 INFO  default --- [              main] com.example.myredis2.RedisTest      :662  : No active profile set, falling back to 1 default profile: "default" 
+2023-12-27 17:56:09.805 INFO  default --- [              main] .r.c.RepositoryConfigurationDelegate:292  : Multiple Spring Data modules found, entering strict repository configuration mode 
+2023-12-27 17:56:09.808 INFO  default --- [              main] .r.c.RepositoryConfigurationDelegate:139  : Bootstrapping Spring Data Redis repositories in DEFAULT mode. 
+2023-12-27 17:56:09.839 INFO  default --- [              main] .r.c.RepositoryConfigurationDelegate:208  : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces. 
+2023-12-27 17:56:10.042 INFO  default --- [              main] c.e.i.c.c.ContextAutoConfiguration  :56   : ==> 【初始化--自动化配置】----全链路日志追踪组件【ContextAutoConfiguration】 
+2023-12-27 17:56:10.148 INFO  default --- [              main] c.e.i.redis.RedisDbAutoConfiguration:125  : ==> 【初始化--自动化配置】----Redis数据库多数据源组件【RedisDbAutoConfiguration】 
+2023-12-27 17:56:10.594 INFO  default --- [              main] c.e.i.redis.RedisDbAutoConfiguration:120  : <== 【销毁--自动化配置】----Redis数据库多数据源组件【RedisDbAutoConfiguration】 
+2023-12-27 17:56:10.594 INFO  default --- [              main] c.e.i.c.c.ContextAutoConfiguration  :51   : <== 【销毁--自动化配置】----全链路日志追踪组件【ContextAutoConfiguration】 
+2023-12-27 17:56:10.604 INFO  default --- [              main] .a.l.ConditionEvaluationReportLogger:82   : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled. 
+2023-12-27 18:00:19.359 INFO  default --- [              main] c.e.i.l.m.LoggerContextInitializer  :57   : Log sdk initialized 
+2023-12-27 18:00:19.381 INFO  default --- [              main] com.example.myredis2.RedisTest      :50   : Starting RedisTest using Java 21.0.1 with PID 36553 (started by petrel in /Users/petrel/Downloads/MyRedis2) 
+2023-12-27 18:00:19.382 INFO  default --- [              main] com.example.myredis2.RedisTest      :662  : No active profile set, falling back to 1 default profile: "default" 
+2023-12-27 18:00:20.072 INFO  default --- [              main] .r.c.RepositoryConfigurationDelegate:292  : Multiple Spring Data modules found, entering strict repository configuration mode 
+2023-12-27 18:00:20.076 INFO  default --- [              main] .r.c.RepositoryConfigurationDelegate:139  : Bootstrapping Spring Data Redis repositories in DEFAULT mode. 
+2023-12-27 18:00:20.112 INFO  default --- [              main] .r.c.RepositoryConfigurationDelegate:208  : Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces. 
+2023-12-27 18:00:20.323 INFO  default --- [              main] c.e.i.c.c.ContextAutoConfiguration  :56   : ==> 【初始化--自动化配置】----全链路日志追踪组件【ContextAutoConfiguration】 
+2023-12-27 18:00:20.440 INFO  default --- [              main] c.e.i.redis.RedisDbAutoConfiguration:125  : ==> 【初始化--自动化配置】----Redis数据库多数据源组件【RedisDbAutoConfiguration】 
+2023-12-27 18:00:20.891 INFO  default --- [              main] c.e.i.redis.RedisDbAutoConfiguration:120  : <== 【销毁--自动化配置】----Redis数据库多数据源组件【RedisDbAutoConfiguration】 
+2023-12-27 18:00:20.892 INFO  default --- [              main] c.e.i.c.c.ContextAutoConfiguration  :51   : <== 【销毁--自动化配置】----全链路日志追踪组件【ContextAutoConfiguration】 
+2023-12-27 18:00:20.901 INFO  default --- [              main] .a.l.ConditionEvaluationReportLogger:82   : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled. 
